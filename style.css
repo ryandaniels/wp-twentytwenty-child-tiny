@@ -48,4 +48,9 @@ body:not(.singular) main > article:first-of-type {
   display: none;
 }
 
+.entry-content {
+  font-family: NonBreakingSpaceOverride, "Hoefler Text", Garamond, "Times New Roman", serif;
+  letter-spacing: normal;
+}
+
 /* End Twenty Twenty Stuff */
